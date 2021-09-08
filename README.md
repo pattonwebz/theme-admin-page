@@ -1,3 +1,5 @@
+I don't really recommend using this package. It does work but there is likely some simpler way to do this.
+
 # Theme Admin Page
 
 This project contains a class for creating a simple to use Admin Page for use in a WordPress theme. It is part of an overarching Theme Framework project.
